@@ -1,3 +1,5 @@
+# Akademia Tarnowska
+---
 # Projekt: Aplikacja Webowa IoT - Monitorowanie Parametrów Środowiskowych
 
 ## Opis projektu
@@ -9,7 +11,7 @@ Celem projektu było stworzenie aplikacji webowej umożliwiającej odczyt i moni
 - **Ciśnienia atmosferycznego** (hPa)
 
 Aplikacja pozwala użytkownikom na rejestrację, logowanie oraz dodawanie własnych odczytów z podłączonych urządzeń IoT. Użytkownicy mogą na bieżąco monitorować i wizualizować parametry w postaci interaktywnych wykresów.
-
+---
 ## Funkcjonalności
 
 - **Rejestracja i logowanie użytkowników**:
@@ -23,7 +25,7 @@ Aplikacja pozwala użytkownikom na rejestrację, logowanie oraz dodawanie własn
 
 - **Zarządzanie urządzeniami IoT**:
   - Użytkownik może podłączyć swoje urządzenia IoT, konfigurować je oraz zarządzać ich ustawieniami.
-
+---
 ## Technologie
 
 Projekt został zrealizowany przy użyciu nowoczesnych technologii webowych oraz rozwiązań IoT, w tym:
@@ -41,14 +43,14 @@ Projekt został zrealizowany przy użyciu nowoczesnych technologii webowych oraz
 
 - **IoT i mikrokontrolery**:
   - Mikrokontrolery wykorzystane w projekcie służyły do odczytu danych środowiskowych, które były następnie wysyłane do aplikacji.
-
+---
 ## Schemat działania aplikacji
 
 1. **Rejestracja/Logowanie**: Użytkownik tworzy konto lub loguje się na istniejące, aby móc zarządzać swoimi urządzeniami i danymi.
 2. **Dodawanie urządzeń**: Użytkownik podłącza swoje urządzenia IoT (np. mikrokontrolery) do aplikacji.
 3. **Odczyt danych**: Aplikacja odbiera dane z mikrokontrolerów na temat temperatury, wilgotności i ciśnienia, które są przechowywane w bazie danych.
 4. **Wizualizacja danych**: Użytkownik może przeglądać dane w aplikacji w postaci wykresów, które odświeżają się w czasie rzeczywistym.
-
+---
 ## Autorzy
 
 - Karol Nowak  
