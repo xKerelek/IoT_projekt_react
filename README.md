@@ -50,8 +50,10 @@ Projekt został zrealizowany przy użyciu nowoczesnych technologii webowych oraz
 4. **Wizualizacja danych**: Użytkownik może przeglądać dane w aplikacji w postaci wykresów, które odświeżają się w czasie rzeczywistym.
 
 ## Autorzy
-- Karol Nowak
-  - numer albumu: 36782
 
-- Krystian Wiart
-  - numer albumu: 36415
+- Karol Nowak  
+  *Numer albumu:* 36782
+- Krystian Wiatr  
+  *Numer albumu:* 36415
+---
+
